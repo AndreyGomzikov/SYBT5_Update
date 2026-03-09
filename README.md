@@ -11,6 +11,8 @@
 
 ## Стек
 Python 3.13 — среда выполнения и язык разработки проекта.
+## библиотека
+TKinter
 
 ## Сборка в исполняемый файл
 pyinstaller --onefile --windowed --name SYBT5_Update sybt5_update.py
