@@ -10,7 +10,10 @@
 - Сохранитть итоговый файл EPROM в формате .bin
 
 ## Стек
-Python 3.9 — среда выполнения и язык разработки проекта.
+Python 3.13 — среда выполнения и язык разработки проекта.
+
+## Сборка в испльняемый файл
+pyinstaller --onefile --windowed --name SYBT5_Update sybt5_update.py
 
 ## Автор проекта
 [Андрей Гомзиков](https://github.com/AndreyGomzikov)
